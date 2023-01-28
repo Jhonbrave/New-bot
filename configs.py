@@ -27,7 +27,7 @@ Fᴏʀ Mᴏʀᴇ Iɴꜰᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ ✅''')
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ,
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅''')
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001897220638")
+    UPDATES_CHANNEL = int(os.getenv("UPDATES_CHANNEL", "-1001897220638"))
     DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Jhonbrave:16nihalpk16@cluster0.piqasdd.mongodb.net/?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001654343251"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 8))
