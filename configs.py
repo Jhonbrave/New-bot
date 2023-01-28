@@ -39,9 +39,9 @@ Fᴏʀ Mᴏʀᴇ Iɴꜰᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ ✅''')
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 100))
     MDISK_API = os.getenv("MDISK_API", "xerksgsIlGJBRm3TCNRo")
     VERIFIED_TIME  = int(os.getenv("VERIFIED_TIME", "365"))
-    ABOUT_BOT_TEXT = os.getenv("ABOUT_TEXT", '''I ᴏɴʟʏ ꜱʜᴀʀᴇ ᴛʜᴇ ᴘᴏꜱᴛ ꜰʀᴏᴍ ᴘᴇᴏᴘʟᴇ'ꜱ ᴄʜᴀɴɴᴇʟ! ᴡʜᴏ ᴍᴀᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴀᴛ ᴄʜᴀɴɴᴇʟ, i ᴅᴏ ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.✅
+    ABOUT_BOT_TEXT = os.getenv("ABOUT_TEXT", '''IAM DEVELOPED MY,SON OF KRYPTON✅
 
-ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ @Mdisk_Bot_Master''')
+ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ, @click_for_all_updates''')
     ABOUT_HELP_TEXT = os.getenv("HELP_TEXT", ''' HEY THERE MUST JOIN,@click_for_all_updates
 
  Sᴛᴇᴘ 1 - FOR ALL DETAILS JOIN THIS.@click_for_all_updates
